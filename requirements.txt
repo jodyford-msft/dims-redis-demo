@@ -1,0 +1,10 @@
+flask
+flask_sqlalchemy
+redis
+pybreaker
+azure-identity
+pyodbc
+
+fastapi
+uvicorn[standard]
+pydantic
